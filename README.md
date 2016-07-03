@@ -4,15 +4,15 @@
 ## Why 
 AsyncStorage is very difficult to debug. I want to develop a tool that have a UI Interface. So, I did.   
 
-	$ npm install spoon --save
+	$ npm install a4 --save
  
 ## How to use       
 
 	//1) install module
-		$ npm install spoon --save
+		$ npm install a4 --save
 	
 	//2) import module
-		import Spoon from 'spoon';
+		import Spoon from 'a4';
 	
 	//3) write component on bottom of view container
 		<Spoon/> 

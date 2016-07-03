@@ -34,7 +34,7 @@ const DESC = 'React Native AsyncStorage Debug Tool';
 
 const TOOL_NAME = 'Spoon';
 
-class Spoon extends Component{
+class A4 extends Component{
   constructor(props){
     super(props);
     var ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
@@ -578,4 +578,4 @@ const styles = StyleSheet.create({
 
 });
 
-module.exports = Spoon;
+module.exports = A4;
