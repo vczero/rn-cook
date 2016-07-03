@@ -12,10 +12,10 @@ AsyncStorage is very difficult to debug. I want to develop a tool that have a UI
 		$ npm install a4 --save
 	
 	//2) import module
-		import Spoon from 'a4';
+		import A4 from 'a4';
 	
 	//3) write component on bottom of view container
-		<Spoon/> 
+		<A4/> 
 		
 	//4) for example
 		<ScrollView style={styles.flex_1}>
@@ -36,7 +36,7 @@ AsyncStorage is very difficult to debug. I want to develop a tool that have a UI
         <Category navigator={this.props.navigator}/>
         <CopyRight navigator={this.props.navigator}/>
         
-        <Spoon/>
+        <A4/>
       </ScrollView>	
     
 ## Show Case 
