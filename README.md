@@ -1,21 +1,21 @@
-# A4
- React Native AsyncStorage Debugger         
+# Noodles
+ React Native AsyncStorage Debug Tool        
  
 ## Why 
 AsyncStorage is very difficult to debug. I want to develop a tool that have a UI Interface. So, I did.   
 
-	$ npm install a4 --save
+	$ npm install noodles --save
  
 ## How to use       
 
 	//1) install module
-		$ npm install a4 --save
+		$ npm install noodles --save
 	
 	//2) import module
-		import A4 from 'a4';
+		import A4 from 'noodles';
 	
 	//3) write component on bottom of view container
-		<A4/> 
+		<Noodles/> 
 		
 	//4) for example
 		<ScrollView style={styles.flex_1}>
@@ -36,7 +36,7 @@ AsyncStorage is very difficult to debug. I want to develop a tool that have a UI
         <Category navigator={this.props.navigator}/>
         <CopyRight navigator={this.props.navigator}/>
         
-        <A4/>
+        <Noodles/>
       </ScrollView>	
     
 ## Show Case 
