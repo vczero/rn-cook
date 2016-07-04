@@ -1,5 +1,5 @@
 {
-  "name": "Noodles",
+  "name": "rn-cook",
   "version": "0.0.1",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"
@@ -7,5 +7,24 @@
   "dependencies": {
     "react": "^15.1.0",
     "react-native": "^0.27.2"
-  }
+  },
+  "description": "React Native AsyncStorage Debug Tool",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vczero/noodles.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "asyncstorage",
+    "react",
+    "native"
+  ],
+  "author": "vczero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vczero/noodles/issues"
+  },
+  "homepage": "https://github.com/vczero/noodles#readme"
 }

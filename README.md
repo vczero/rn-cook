@@ -1,21 +1,21 @@
-# Noodles
+# RN-COOK
  React Native AsyncStorage Debug Tool        
  
 ## Why 
 AsyncStorage is very difficult to debug. I want to develop a tool that have a UI Interface. So, I did.   
 
-	$ npm install noodles --save
+	$ npm install rn-cook --save
  
 ## How to use       
 
 	//1) install module
-		$ npm install noodles --save
+		$ npm install rn-cook --save
 	
 	//2) import module
-		import A4 from 'noodles';
+		import RNCook from 'rn-cook';
 	
 	//3) write component on bottom of view container
-		<Noodles/> 
+		<RNCook/> 
 		
 	//4) for example
 		<ScrollView style={styles.flex_1}>
@@ -36,7 +36,7 @@ AsyncStorage is very difficult to debug. I want to develop a tool that have a UI
         <Category navigator={this.props.navigator}/>
         <CopyRight navigator={this.props.navigator}/>
         
-        <Noodles/>
+        <RNCook/>
       </ScrollView>	
     
 ## Show Case 
