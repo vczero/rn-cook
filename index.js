@@ -32,7 +32,7 @@ let pixel =  1 / PixelRatio.get();
 
 const DESC = 'React Native AsyncStorage Debug Tool';
 
-const TOOL_NAME = 'Spoon';
+const TOOL_NAME = 'RN-COOK';
 
 class Noodles extends Component{
   constructor(props){

@@ -41,12 +41,10 @@ AsyncStorage is very difficult to debug. I want to develop a tool that have a UI
     
 ## Show Case 
 ### Table 
- ![](1.png)       
-### Detail info       
- ![](2.png)  
-### Command     
+ ![](1.png)           
+### Command          
  ![](3.png)  
-### Edit value    
+### Edit        
  ![](4.png)           
  
        
