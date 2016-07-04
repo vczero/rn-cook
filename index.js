@@ -10,10 +10,10 @@ import {
   AsyncStorage,
   ListView,
   TextInput,
-  Alert
+  Alert,
+  Dimensions
   } from 'react-native';
 
-import Dimensions from 'Dimensions';
 
 /*
 * React Native AsyncStorage Debug Tool
